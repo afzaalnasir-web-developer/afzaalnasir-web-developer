@@ -21,7 +21,7 @@ Experience    : 6+ Years — WordPress, Elementor, Divi, Figma, WooCommerce, SEO
 Currently     : WordPress Designer @ Studio98.com (Remote)
                 WordPress Expert & SEO Specialist @ TheWebsters.org (Remote)
 Upwork        : $4,000+ Earned | 5.0 ⭐ Rating | 517 Hours | ID Verified
-Education     : MBA — Government College University (GCU) Faisalabad
+Education     : MCS — Government College University (GCU) Faisalabad
 Seeking       : Remote WordPress / UI-UX / Frontend roles worldwide
 ```
 
@@ -31,7 +31,7 @@ Seeking       : Remote WordPress / UI-UX / Frontend roles worldwide
 
 | 🏅 Certification | 🏛 Issuer | 📋 Details |
 |---|---|---|
-| MBA | GCU Faisalabad | Business Administration |
+| MCS | GCU Faisalabad | Master of Computer Science|
 | IELTS | British Council | English Proficiency |
 | Python Fundamentals | DataCamp | Data Analytics |
 | React Introduction | Online | Frontend Basics |
@@ -164,7 +164,7 @@ Seeking       : Remote WordPress / UI-UX / Frontend roles worldwide
 
 ## 📚 Education
 
-🎓 **Master of Business Administration (MBA)**
+🎓 **Master of Computer Science (MCS)**
 Government College University (GCU) Faisalabad, Pakistan | 2015 – 2019
 
 ---
