@@ -31,11 +31,12 @@ Seeking       : Remote WordPress / UI-UX / Frontend roles worldwide
 
 | 🏅 Certification | 🏛 Issuer | 📋 Details |
 |---|---|---|
+ HNC Computing | West George College, Glasgow UK | Software Development |
 | MCS | GCU Faisalabad | Master of Computer Science|
 | IELTS | British Council | English Proficiency |
 | Python Fundamentals | DataCamp | Data Analytics |
 | React Introduction | Online | Frontend Basics |
-| HNC Computing | West George College, Glasgow UK | Software Development |
+|
 
 ---
 
